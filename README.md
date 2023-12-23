@@ -13,5 +13,3 @@ images of cats and dogs. You can load the dataset from
 Tensorflow : https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
 Or download it from Kaggle : https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
 
-
-Each Task have a HTML file. You can open that to see every cell in a jupyter format
