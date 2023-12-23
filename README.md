@@ -1,6 +1,8 @@
 # GDSC_MACHINE_LEARNING_RISHABH_GUPTA
 Machine Learning Task from GDSC Vit bhopal
 
+Taske:
+
 1. MNIST digit Classifier: A basic classification model that can classify
 all the digits in the dataset MNIST dataset. You can load the dataset from
 Tensorflow : https://www.tensorflow.org/datasets/catalog/mnist
@@ -10,3 +12,6 @@ Or download it from Kaggle : https://www.kaggle.com/datasets/hojjatk/mnist-datas
 images of cats and dogs. You can load the dataset from
 Tensorflow : https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
 Or download it from Kaggle : https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
+
+Each Task have a HTML file. You can open that to see every cell in a jupyter format
